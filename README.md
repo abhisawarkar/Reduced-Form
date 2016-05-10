@@ -1,2 +1,3 @@
 # Reduced-Form
-Reduce form of list elements
+
+- Reduce forms of list elements using dictionary
